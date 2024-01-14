@@ -1,0 +1,20 @@
+{
+    "pessoas": [
+        {
+            "nome": "João",
+            "idade": 25,
+            "endereço": {
+                "rua": "Rua A",
+                "cidade": "São Paulo"
+            }
+        },
+        {
+            "nome": "Maria",
+            "idade": 30,
+            "endereço": {
+                "rua": "Rua B",
+                "cidade": "Rio de Janeiro"
+            }
+        }
+    ]
+}
